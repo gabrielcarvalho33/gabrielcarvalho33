@@ -1,6 +1,6 @@
  ## Eai, eu sou Gabriel Carvalho 🎯
 
-Atualmente Estudando Java e Ptyhon 😎
+Atualmente Estudando Java e Python 😎
 
 <div>
  
